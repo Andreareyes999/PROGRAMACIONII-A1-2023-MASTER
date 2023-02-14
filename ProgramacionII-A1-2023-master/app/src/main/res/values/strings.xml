@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculadora Basica</string>
+    <string name="num1">Número 1</string>
+    <string name="num2">Número 2</string>
+    <string-array name="opciones_calculadora_basica">
+        <item>Suma</item>
+        <item>Resta</item>
+        <item>Multiplicacion</item>
+        <item>Division</item>
+        <item>Exponente</item>
+        <item>Factorial (!)</item>
+    </string-array>
+</resources>
